@@ -1,6 +1,6 @@
 # Lab05DB
 CS370 Lab 05 DB
-To run the project, double-click on the file ~/Lab05DB-main/SideScrollerTemplate
+To run the project, double-click on the file ~/Lab05DB-main/SideScrollerTemplate.uproject
 
 If you are prompted to rebuild missing Modules click Yes.
 
